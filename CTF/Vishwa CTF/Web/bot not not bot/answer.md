@@ -1,7 +1,7 @@
 # Flag Format
 ## Category: Warm-up
 ## Problem Statement
-> The Flag Format is : vishwaCTF{} The Flag for all challenges would follow this format unless specified otherwise in the challenge. The Flag for this challenge is : vishwaCTF{welcome_to_vishwaCTF}
+> Ain't Much, But It's Honest Work!!! https://bot-not-not-bot.vishwactf.com/
 ## Hints
 > Hint tidak tersedia
 ## Solution

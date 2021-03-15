@@ -1,7 +1,7 @@
 # Flag Format
 ## Category: Warm-up
 ## Problem Statement
-> The Flag Format is : vishwaCTF{} The Flag for all challenges would follow this format unless specified otherwise in the challenge. The Flag for this challenge is : vishwaCTF{welcome_to_vishwaCTF}
+> My phone is not recognizing this barcode. Can you give it a try?
 ## Hints
 > Hint tidak tersedia
 ## Solution

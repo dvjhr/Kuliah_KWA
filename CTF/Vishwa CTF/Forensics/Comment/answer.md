@@ -1,7 +1,7 @@
 # Flag Format
 ## Category: Warm-up
 ## Problem Statement
-> The Flag Format is : vishwaCTF{} The Flag for all challenges would follow this format unless specified otherwise in the challenge. The Flag for this challenge is : vishwaCTF{welcome_to_vishwaCTF}
+> TChanging the contents of file will result in loosing the flag. So I repeat dont change its contents
 ## Hints
 > Hint tidak tersedia
 ## Solution
