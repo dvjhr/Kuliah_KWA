@@ -2,6 +2,5 @@
 
 ## Problems
 
-| Warm-up  |
-| ------------- |
-| [Flag Format](/Warm-up/Flag%20Format/README.md)|
+* Warm-up  
+    * [Flag Format](/Warm-up/Flag%20Format/README.md)
