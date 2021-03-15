@@ -1,5 +1,5 @@
 # Flag Format
-## Category: Web
+Category: Web
 ## Problem Statement
 > when php, anime and robots come together. they make hell of a challenge. https://uwu.vishwactf.com/
 ## Hints
