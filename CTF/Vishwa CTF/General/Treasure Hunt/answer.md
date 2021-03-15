@@ -1,10 +1,24 @@
 # Flag Format
-## Category: Warm-up
+## Category: General
 ## Problem Statement
-> The Flag Format is : vishwaCTF{} The Flag for all challenges would follow this format unless specified otherwise in the challenge. The Flag for this challenge is : vishwaCTF{welcome_to_vishwaCTF}
+> Instagram, Twitter and LinkedIn are the steps to Social Success. And, I'm sure I put the flag somewhere on our posts here, but I cant remember if it was the caption or comment or retweet. Can you help me find it? Go sequentially 
 ## Hints
-> Hint tidak tersedia
+> https://twitter.com/cybercellviit?lang=en
+> 
+> https://twitter.com/cybercellviit?lang=en
 ## Solution
-Jawab sesuai dengan petunjuk yang tertera.
+Kunjungi tiap alamat sosial media yang tertera, dapatkan flag secara berurutan di setiap salah satu post
+
+https://www.instagram.com/cybercell_viit/
+https://www.instagram.com/p/BuY2bhkhboO/
+
+![image](https://user-images.githubusercontent.com/57520495/111199060-ce9e6900-85f2-11eb-9ce9-de795975f2b3.png)
+
+
+https://twitter.com/cybercellviit/status/1370435371599761409
+
+![image](https://user-images.githubusercontent.com/57520495/111198617-55067b00-85f2-11eb-8ce4-86a894059d3d.png)
+
+
 ## Flag
-`vishwaCTF{welcome_to_vishwaCTF}`
+`vishwaCTF{w31c0m3 70 v1shw4ctf}`
