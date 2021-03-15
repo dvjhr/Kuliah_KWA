@@ -4,7 +4,7 @@
 
 | Warm-up  |
 | ------------- |
-| [Flag Format](/Warm-up/Flag%20Format/README.md)|
+| [Flag Format](Warm-up/Flag%20Format/README.md)|
 
 | Forensics  |
 | ------------- |
