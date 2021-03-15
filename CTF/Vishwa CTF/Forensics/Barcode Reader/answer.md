@@ -1,5 +1,5 @@
 # Flag Format
-## Category: Warm-up
+Category: Warm-up
 ## Problem Statement
 > My phone is not recognizing this barcode. Can you give it a try?
 ## Hints

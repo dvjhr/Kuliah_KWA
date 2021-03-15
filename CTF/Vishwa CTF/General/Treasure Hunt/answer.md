@@ -1,5 +1,5 @@
 # Flag Format
-## Category: General
+Category: General
 ## Problem Statement
 > Instagram, Twitter and LinkedIn are the steps to Social Success. And, I'm sure I put the flag somewhere on our posts here, but I cant remember if it was the caption or comment or retweet. Can you help me find it? Go sequentially 
 ## Hints

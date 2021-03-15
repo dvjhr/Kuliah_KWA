@@ -1,5 +1,5 @@
 # Flag Format
-## Category: Web
+Category: Web
 ## Problem Statement
 > https://isjsnecessary.vishwactf.com
 ## Hints

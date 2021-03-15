@@ -1,5 +1,5 @@
 # Flag Format
-## Category: Warm-up
+Category: Warm-up
 ## Problem Statement
 > Ain't Much, But It's Honest Work!!! https://bot-not-not-bot.vishwactf.com/
 ## Hints

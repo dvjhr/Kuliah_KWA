@@ -1,5 +1,5 @@
 # Flag Format
-## Category: Warm-up
+Category: Warm-up
 ## Problem Statement
 > Sherlock found a green envelope on its door step and this image.
 ## Hints
