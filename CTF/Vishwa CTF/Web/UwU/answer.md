@@ -1,5 +1,5 @@
 # Flag Format
-## Category: Warm-up
+## Category: Web
 ## Problem Statement
 > when php, anime and robots come together. they make hell of a challenge. https://uwu.vishwactf.com/
 ## Hints
@@ -52,6 +52,6 @@ Di dalam link tersebut, terdapat sebuah program PHP yang akan menghasilkan flagn
 </html>
 ```
 Jawaban akhirnya adalah
-https://uwu.vishwactf.com/robots/?php_is_hard=suzuki_harusuzuki_harumiyamiya
+`https://uwu.vishwactf.com/robots/?php_is_hard=suzuki_harusuzuki_harumiyamiya`
 ## Flag
 great, here it is what your looking for=> `vishwaCTF{well_this_was_a_journey}`
