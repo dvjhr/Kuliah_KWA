@@ -1,10 +1,15 @@
 # Flag Format
-## Category: Warm-up
+## Category: Cryptography
 ## Problem Statement
-> The Flag Format is : vishwaCTF{} The Flag for all challenges would follow this format unless specified otherwise in the challenge. The Flag for this challenge is : vishwaCTF{welcome_to_vishwaCTF}
+> Accidentally frozen, pizza-deliverer Fry wakes up 1,000 years in the future and finds himself surrounded by cyclops,robots,flying cars and crazy scientists. He is given a note but he cant understand it. Can you help him??
 ## Hints
-> Hint tidak tersedia
+> ![image](https://user-images.githubusercontent.com/57520495/111199527-51272880-85f3-11eb-97c1-7f9dbf12cbe5.png)
+
+
 ## Solution
-Jawab sesuai dengan petunjuk yang tertera.
+Dechipher bahasa alien yang diberikan, bahasa ini merupakan bahasa non-resmi yang dapat dicari di internet
+![image](https://user-images.githubusercontent.com/57520495/111199805-a400e000-85f3-11eb-8fe4-10337db203e0.png)
+
+
 ## Flag
-`vishwaCTF{welcome_to_vishwaCTF}`
+`vishwaCTF{WEARENOTALONE}`
