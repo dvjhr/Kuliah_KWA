@@ -21,4 +21,4 @@ https://twitter.com/cybercellviit/status/1370435371599761409
 
 
 ## Flag
-`vishwaCTF{w31c0m3 70 v1shw4ctf}`
+`vishwaCTF{w31c0m3 t0 v1shw4ctf}`
