@@ -18,10 +18,10 @@
 
 | Web  |
 | ------------- |
-| [UwU](General/UwU/README.md)|
-| [Redeem](General/Redeem/README.md)|
-| [Is JS Necessary](General/Is%20JS%20Necessary/README.md)|
-| [bot not not bot](General/bot%20not%20not%20bot/README.md)|
+| [UwU](Web/UwU/README.md)|
+| [Redeem](Web/Redeem/README.md)|
+| [Is JS Necessary](Web/Is%20JS%20Necessary/README.md)|
+| [bot not not bot](Web/bot%20not%20not%20bot/README.md)|
 
 | General  |
 | ------------- |
