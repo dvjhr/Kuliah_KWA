@@ -1,10 +1,16 @@
 # Flag Format
-## Category: Warm-up
+## Category: Web
 ## Problem Statement
-> The Flag Format is : vishwaCTF{} The Flag for all challenges would follow this format unless specified otherwise in the challenge. The Flag for this challenge is : vishwaCTF{welcome_to_vishwaCTF}
+> One of our seller has the flags. and it seems you don't have enough money to buy the same. The only way to get money is by redeeming the coupon code. TRY UR LUCK ! https://redeeeem.vishwactf.com/
 ## Hints
 > Hint tidak tersedia
 ## Solution
-Jawab sesuai dengan petunjuk yang tertera.
+Pergi ke link yang tersedia
+![image](https://user-images.githubusercontent.com/57520495/111196905-69e20f00-85f0-11eb-94e2-22bee158d029.png)
+
+Ganti value dari form input yang pada awalnya tersembunyi, baik dengan ataupun tanpa memunculkannya. Sesuaikan dengan jumlah value yang dibutuhkan/diinginkan oleh soal yaitu 6969 untuk membeli flagnya
+![image](https://user-images.githubusercontent.com/57520495/111197248-d4934a80-85f0-11eb-8507-e96ba93b9cee.png)
+
+
 ## Flag
-`vishwaCTF{welcome_to_vishwaCTF}`
+`vishwaCTF{@DDed_T0_C@rT_}`
