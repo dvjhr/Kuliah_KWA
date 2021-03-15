@@ -7,6 +7,7 @@
 ## Solution
 Kunjungi website yang tertera, namun berikan subfolder sesuai dengan hint yang ada
 ![image](https://user-images.githubusercontent.com/57520495/111195705-1e7b3100-85ef-11eb-9e81-aa63e98854c9.png)
+
 Di dalam link tersebut, terdapat sebuah program PHP yang akan menghasilkan flagnya
 ```<!DOCTYPE HTML>
 <?php
