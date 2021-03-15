@@ -51,6 +51,6 @@ Di dalam link tersebut, terdapat sebuah program PHP yang akan menghasilkan flagn
   </body>
 </html>```
 Jawaban akhirnya adalah
-```https://uwu.vishwactf.com/robots/?php_is_hard=suzuki_harusuzuki_harumiyamiya```
+https://uwu.vishwactf.com/robots/?php_is_hard=suzuki_harusuzuki_harumiyamiya
 ## Flag
 great, here it is what your looking for=> `vishwaCTF{well_this_was_a_journey}`
