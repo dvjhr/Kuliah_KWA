@@ -3,21 +3,21 @@
 ## Problems
 
  * Warm-up
-    * [Flag Format](Warm-up/Flag%20Format/answer.md)
+    * [Flag Format](Warm-up/Flag%20Format/README.md)
 
  * General
-    * [Treasure Hunt](Web/Treasure%20Hunt/answer.md)
+    * [Treasure Hunt](Web/Treasure%20Hunt/README.md)
 
  * Web
-    * [UwU](Web/UwU/answer.md)
-    * [Redeem](Web/Redeem/answer.md)
-    * [Is JS Necessary](Web/Is%20JS%20Necessary/answer.md)
-    * [bot not not bot](Web/bot%20not%20not%20bot/answer.md)
+    * [UwU](Web/UwU/README.md)
+    * [Redeem](Web/Redeem/README.md)
+    * [Is JS Necessary](Web/Is%20JS%20Necessary/README.md)
+    * [bot not not bot](Web/bot%20not%20not%20bot/README.md)
 
  * Cryptography
-    * [From The Future](Cryptography/From%20The%20Future/answer.md)
+    * [From The Future](Cryptography/From%20The%20Future/README.md)
 
  * Forensics   
-    * [Barcode Reader](Forensics/Barcode%20Reader/answer.md)
-    * [Sherlock](Forensics/Sherlock/answer.md)
-    * [Comment](Forensics/Comment/answer.md)
+    * [Barcode Reader](Forensics/Barcode%20Reader/README.md)
+    * [Sherlock](Forensics/Sherlock/README.md)
+    * [Comment](Forensics/Comment/README.md)
